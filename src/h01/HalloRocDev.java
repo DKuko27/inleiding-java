@@ -5,6 +5,7 @@ package h01;
  */
 public class HalloRocDev {
 
-    public static void main(String[] args) { System.out.println("Hallo. test 1 2 3!");
+    public static void main(String[] args) { System.out.println("Hallo. test 1 2 3. Double test!");
+                                            
     }
 }
